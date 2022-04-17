@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gargano9
+- 👀 I’m interested in becoming a programer
+- 🌱 I’m currently learning C# language
